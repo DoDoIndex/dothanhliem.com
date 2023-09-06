@@ -9,6 +9,7 @@ const Home = () => {
       <div className="bg-cyan-200">
         Hello, my name is <b> Do Thanh Liem </b>
       </div>
+      <a href="https://www.facebook.com/tl.do.940436"> My Facebook </a>
       <img className="w-24 rounded" src="/Ava.jpg" alt="Background" />
       <img className="w-128 rounded" src="/Background.jpg" alt="Background" />
     </main>
