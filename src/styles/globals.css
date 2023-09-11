@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  background: #d9f1ff;
+}
+
 div {
   color: darkblue;
 }
