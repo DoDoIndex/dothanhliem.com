@@ -10,7 +10,12 @@ div {
   color: darkblue;
 }
 
-button {
+#b1 {
   color: orange;
   background-color: blue;
+}
+
+#b2 {
+  color: blue;
+  background-color: orange;
 }

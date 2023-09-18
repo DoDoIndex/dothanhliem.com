@@ -9,7 +9,7 @@ const Home = () => {
       <div> Welcome to my website </div>
       <div className="bg-cyan-200">
         Hello, my name is <b> Do Thanh Liem </b> <br></br>
-        <a href="https://www.facebook.com/tl.do.940436"> My Facebook </a>
+        <a href="https://www.facebook.com/tl.do.940436">My Facebook</a>
       </div>
       <button id="b1">Button 1</button>
       <br></br>
