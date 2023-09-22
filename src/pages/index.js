@@ -7,6 +7,10 @@ const Home = () => {
     <main className={inter.className}>
       <title>Profile - Thanhliem Do</title>
       <div> Welcome to my website </div>
+      <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZbjLpWTNGQvTtXRjHDCzLCwpLzBfJZnTrLmFqfzdxFghxwdnxLnqTFLwWqqpjBMQVVlkg">
+        {' '}
+        225210751@gm.uit.edu.vn
+      </a>
       <div className="bg-cyan-200">
         Hello, my name is <b> Do Thanh Liem </b> <br></br>
         <a href="https://www.facebook.com/tl.do.940436">My Facebook</a>
