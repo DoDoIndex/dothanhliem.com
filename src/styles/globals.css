@@ -3,19 +3,5 @@
 @tailwind utilities;
 
 body {
-  background: #ffffff;
-}
-
-div {
-  color: darkblue;
-}
-
-#b1 {
-  color: orange;
-  background-color: blue;
-}
-
-#b2 {
-  color: blue;
-  background-color: orange;
+  background: #caf0f8;
 }
