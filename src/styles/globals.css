@@ -5,3 +5,12 @@
 body {
   background: #caf0f8;
 }
+
+#email {
+  color: #0062ff;
+  text-decoration: blue solid underline;
+}
+
+#phone {
+  color: #0062ff;
+}
